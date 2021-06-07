@@ -1,0 +1,1 @@
+Thsi is to understand the basic concept and background of redux
